@@ -1,0 +1,46 @@
+# 🎨 UI/UX Designing Case Studies & Portal Submissions
+
+Welcome to my portfolio repository documenting the end-to-end design lifecycle for multiple UI/UX optimization assignments. This repository acts as the central storage ledger for academic evaluation, covering user research frameworks, interface layouts, and usability evaluation metrics.
+
+---
+
+## 📂 Repository Contents & Navigation
+
+This repository is structured systematically to host design submissions across distinct project scopes:
+
+*   **`Mobile_App_Wireframing_Task_Submission.docx`**  
+    Complete low-fidelity interactive architectural blueprint documentation for **RouteEase** (Smart Local Commute Assistant Mobile App). Includes user personas, structural user flows, and wireframe specification grids.
+*   **`Website_UI_Redesign_Final_Submission (1).pdf`**  
+    A diagnostic case study targeting heuristic evaluations, color matrix configuration rules, typography hierarchies, and grid spacing optimizations for high-fidelity cross-platform views.
+*   **`interactive_prototype_submission (1).pdf`** & **`.md`**  
+    Detailed assignment files tracking functional animation properties, modal layout interactions, dynamic navigation triggers, and quick prototyping iterations.
+
+---
+
+## 🚀 Core Case Studies Overview
+
+### 🗺️ Case Study 1: RouteEase — Mobile App Wireframing
+*   **Methodology Used:** Design Thinking Framework (*Empathize, Define, Ideate, Prototype, Test*)
+*   **Primary Focus:** Resolving urban navigation app overload by integrating disparate transit ticketing systems into a unified mobile checkout flow layout.
+*   **Key Specs Documented:**
+    *   **User Persona:** Maya Lin (26, Software Developer navigating city transit blocks).
+    *   **Layout Framework:** Clear, monochrome layout specifications across 3 foundational screens (Main Search Dashboard, Route Options Matrix, Unified Ticketing Checkout Node) matching global accessibility tap targets (48x48dp).
+
+### 💻 Case Study 2: Website UI Redesign & Evaluation
+*   **Platform Context:** Heuristic gap diagnosis tracking operational friction across interactive layouts.
+*   **Design Tokens Applied:**
+    *   *Primary Theme:* Slate Deep Night (`#0F172A`)
+    *   *Action Color:* Vibrant Accent Blue (`#2563EB`)
+    *   *Success Indicator:* Active Emerald Green (`#10B981`)
+    *   *Typography System:* Inter Sans-Serif Typography rules.
+
+---
+
+## 🛠️ Design Tools Utilized
+*   **Figma Ecosystem:** Low/High-fidelity workspaces, smart micro-interactions, components variant logic, and dynamic transition testing loops.
+*   **Adobe XD / InVision:** Interaction framework testing workflows.
+
+---
+
+## 📜 Academic Affiliation
+All project items mapped inside this repository are developed, maintained, and verified across active skill advancement student portals to demonstrate baseline proficiency in standard product layout workflows.
